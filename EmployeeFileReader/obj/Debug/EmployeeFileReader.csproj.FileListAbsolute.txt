@@ -1,0 +1,4 @@
+C:\Users\KORIR\source\repos\EmployeeHierarchy\EmployeeFileReader\bin\Debug\EmployeeFileReader.dll
+C:\Users\KORIR\source\repos\EmployeeHierarchy\EmployeeFileReader\bin\Debug\EmployeeFileReader.pdb
+C:\Users\KORIR\source\repos\EmployeeHierarchy\EmployeeFileReader\obj\Debug\EmployeeFileReader.dll
+C:\Users\KORIR\source\repos\EmployeeHierarchy\EmployeeFileReader\obj\Debug\EmployeeFileReader.pdb

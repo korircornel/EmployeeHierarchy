@@ -1,0 +1,9 @@
+C:\Users\KORIR\source\repos\EmployeeHierarchy\EmployeeHierarchy\obj\Debug\EmployeeHierarchy.csprojAssemblyReference.cache
+C:\Users\KORIR\source\repos\EmployeeHierarchy\EmployeeHierarchy\bin\Debug\EmployeeHierarchy.exe.config
+C:\Users\KORIR\source\repos\EmployeeHierarchy\EmployeeHierarchy\bin\Debug\EmployeeHierarchy.exe
+C:\Users\KORIR\source\repos\EmployeeHierarchy\EmployeeHierarchy\bin\Debug\EmployeeHierarchy.pdb
+C:\Users\KORIR\source\repos\EmployeeHierarchy\EmployeeHierarchy\bin\Debug\EmployeeFileReader.dll
+C:\Users\KORIR\source\repos\EmployeeHierarchy\EmployeeHierarchy\bin\Debug\EmployeeFileReader.pdb
+C:\Users\KORIR\source\repos\EmployeeHierarchy\EmployeeHierarchy\obj\Debug\EmployeeHierarchy.csproj.CopyComplete
+C:\Users\KORIR\source\repos\EmployeeHierarchy\EmployeeHierarchy\obj\Debug\EmployeeHierarchy.exe
+C:\Users\KORIR\source\repos\EmployeeHierarchy\EmployeeHierarchy\obj\Debug\EmployeeHierarchy.pdb

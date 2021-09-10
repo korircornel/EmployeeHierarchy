@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeHierarchy", "EmployeeHierarchy\EmployeeHierarchy.csproj", "{C23D174C-14E8-4A10-9543-61CDEFF4CC34}"
+	ProjectSection(ProjectDependencies) = postProject
+		{574CF373-3F7C-4DCD-87C9-F1C259CB437E} = {574CF373-3F7C-4DCD-87C9-F1C259CB437E}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeFileReader", "EmployeeFileReader\EmployeeFileReader.csproj", "{574CF373-3F7C-4DCD-87C9-F1C259CB437E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C23D174C-14E8-4A10-9543-61CDEFF4CC34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C23D174C-14E8-4A10-9543-61CDEFF4CC34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C23D174C-14E8-4A10-9543-61CDEFF4CC34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C23D174C-14E8-4A10-9543-61CDEFF4CC34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{574CF373-3F7C-4DCD-87C9-F1C259CB437E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{574CF373-3F7C-4DCD-87C9-F1C259CB437E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{574CF373-3F7C-4DCD-87C9-F1C259CB437E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{574CF373-3F7C-4DCD-87C9-F1C259CB437E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A16D9B69-594C-4049-8B11-00865D94E598}
+	EndGlobalSection
+EndGlobal
